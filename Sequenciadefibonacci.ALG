@@ -7,7 +7,7 @@ Inicio
       F1 <- 0
       F2 <- 1
 Repita
-      Escreva("Digite um número: ")
+      Escreva("Digite um nÃºmero: ")
       Leia(Nun)
       Para C <- 1 ate Nun faca
            F1 <- F1 + F2
